@@ -78,7 +78,7 @@ img {
   font-size: 14px;
 }
 .content p .about-me {
-    font-family: var(--heading-font-family);
+  font-family: var(--heading-font-family);
   font-size: 50px;
 }
 .content {

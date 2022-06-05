@@ -19,7 +19,7 @@ h7 {
   font-weight: bold;
 }
 h1 {
-  font-size: 90px;
+  font-size: 70px;
   font-weight: bold;
   line-height: 1.5;
 }
@@ -62,8 +62,8 @@ img {
 }
 .content h1 {
   text-align: center;
-  font-size: 64px;
-  line-height: 80px;
+  font-size: 50px;
+  line-height: 50px;
 }
 .content h2 {
   font-size: 18px;
@@ -79,7 +79,7 @@ img {
 }
 .content p .about-me {
   font-family: var(--heading-font-family);
-  font-size: 50px;
+  font-size: 60px;
 }
 .content {
   text-align: center;
